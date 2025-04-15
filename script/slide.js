@@ -5,28 +5,28 @@ const slider = document.querySelector('.slider');
 // Dados das imagens para cada dia da semana
 const images = {
     'segunda': [
-        '7.jpeg'
+        '7.png'
     ],
     'terça': [
-        '7.jpeg'
+        '7.png'
     ],
     'quarta': [
-        '7.jpeg'
+        '7.png'
     ],
     'quinta': [
-        '7.jpeg'
+        '7.png'
     ],
     'sexta': [
-        '7.jpeg'
+        '7.png'
     ],
     'sabado': [
-        '7.jpeg'
+        '7.png'
     ],
     'domingo': [
-        '7.jpeg'
+        '7.png'
     ],
     'feriados': [
-        '7.jpeg'
+        '7.png'
     ]
 };
 
